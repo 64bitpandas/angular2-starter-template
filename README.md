@@ -7,12 +7,13 @@ for a clean Material Design feel.
 
 1: **Clone the repo.** 
 
+If you are starting your own project, then [click here](https://gist.github.com/niksumeiko/8972566)
+to view instructions on how to import this code into your repo.
+
+If you want to view the files or contribute, then you can clone the repo normally:
 ```
 git clone https://github.com/dbqeo/angular2-starter-template.git
 ```
-
-If you are starting your own project, then [click here](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
-to view instructions on how to import this code into your repo.
 
 2: **Install the dependencies.**
 ```
